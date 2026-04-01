@@ -14,7 +14,7 @@ vercel.json    → Configuração de headers CORS
 Após o deploy, o JSON fica disponível em:
 
 ```
-https://<seu-dominio>.vercel.app/clubs.json
+https://clubs-coral.vercel.app/clubs.json
 ```
 
 ## Uso
