@@ -1,0 +1,62 @@
+{
+  "leagues": [
+    {
+      "id": "serie_a",
+      "name": "Série A",
+      "country": "Brasil",
+      "flag": "🇧🇷",
+      "logo": "https://static3.smr.vc/ded68f65e0db7dfe284946-102423.webp",
+      "clubs": [
+        { "id": "athletico_pr", "name": "Athletico Paranaense", "short": "CAP", "logo": "https://static3.smr.vc/b10f99ae705697ca6dada8-107206.webp" },
+        { "id": "atletico_mg", "name": "Atlético Mineiro", "short": "CAM", "logo": "https://static3.smr.vc/8ef902e36c68b267592408-314.webp" },
+        { "id": "bahia", "name": "Bahia", "short": "BAH", "logo": "https://static3.smr.vc/b47ce09a4c3ce2dc4eb13e-315.webp" },
+        { "id": "botafogo", "name": "Botafogo", "short": "BOT", "logo": "https://static3.smr.vc/f0ca370e656c58c641234b-316.webp" },
+        { "id": "bragantino", "name": "Red Bull Bragantino", "short": "RBB", "logo": "https://static3.smr.vc/32e9959a62e1f245917fbc-317.webp" },
+        { "id": "chapecoense", "name": "Chapecoense", "short": "CHA", "logo": "https://static3.smr.vc/ecba6ebe1204874deceba5-301304.webp" },
+        { "id": "coritiba", "name": "Coritiba", "short": "CFC", "logo": "https://static3.smr.vc/e095dcaaf0853999ca1127-104776.webp" },
+        { "id": "corinthians", "name": "Corinthians", "short": "COR", "logo": "https://lnoz1yfyf1toqthg.public.blob.vercel-storage.com/upbet-assets/corinthians-319.png" },
+        { "id": "cruzeiro", "name": "Cruzeiro", "short": "CRU", "logo": "https://static3.smr.vc/6814c7a92ff3942ab252c3-321.webp" },
+        { "id": "flamengo", "name": "Flamengo", "short": "FLA", "logo": "https://static3.smr.vc/86661e15f98d4d9409ab7a-322.webp" },
+        { "id": "fluminense", "name": "Fluminense", "short": "FLU", "logo": "https://static3.smr.vc/6f64a36a7fe5496db7d2b8-323.webp" },
+        { "id": "gremio", "name": "Grêmio", "short": "GRE", "logo": "https://static3.smr.vc/445e89599ea2763c3f417f-324.webp" },
+        { "id": "internacional", "name": "Internacional", "short": "INT", "logo": "https://static3.smr.vc/8ebcac03c942582c261e69-326.webp" },
+        { "id": "mirassol", "name": "Mirassol", "short": "MIR", "logo": "https://static3.smr.vc/4c99922a564095d945fecb-301344.webp" },
+        { "id": "palmeiras", "name": "Palmeiras", "short": "PAL", "logo": "https://static3.smr.vc/4cb49b80741711812e3e6d-329.webp" },
+        { "id": "remo", "name": "Remo", "short": "REM", "logo": "https://static3.smr.vc/c0e2ec57abbf8ba3d701e2-334.webp" },
+        { "id": "santos", "name": "Santos", "short": "SAN", "logo": "https://static3.smr.vc/adbeff01cbc5c930dbb776-335.webp" },
+        { "id": "sao_paulo", "name": "São Paulo", "short": "SAO", "logo": "https://static3.smr.vc/5417b4d3d2d5d350098b25-337.webp" },
+        { "id": "vasco", "name": "Vasco da Gama", "short": "VAS", "logo": "https://static3.smr.vc/5732d9c1594dd59411c3d7-339.webp" },
+        { "id": "vitoria", "name": "Vitória", "short": "VIT", "logo": "https://static3.smr.vc/8bb6ac5fb2493360a21dc5-340.webp" }
+      ]
+    },
+    {
+      "id": "serie_b",
+      "name": "Série B",
+      "country": "Brasil",
+      "flag": "🇧🇷",
+      "logo": "https://static3.smr.vc/429b93cadda45b6797ecc9-107191.webp",
+      "clubs": [
+        { "id": "america_mg", "name": "América-MG", "short": "AMG", "logo": "https://static3.smr.vc/ba37e9a7d06308fe5387af-107201.webp" },
+        { "id": "athletic", "name": "Athletic", "short": "ATH", "logo": "https://static3.smr.vc/a41ac01f33b1b9d762dfea-19342677.webp" },
+        { "id": "atletico_go", "name": "Atlético-GO", "short": "ACG", "logo": "https://static3.smr.vc/1334744f46af61a07acf31-301151.webp" },
+        { "id": "avai", "name": "Avaí", "short": "AVA", "logo": "https://static3.smr.vc/c2542c5856a5f3d689a687-107208.webp" },
+        { "id": "botafogo_sp", "name": "Botafogo-SP", "short": "BSP", "logo": "https://static3.smr.vc/23428fd6fe9dc7aa7c92c0-121265.webp" },
+        { "id": "ceara", "name": "Ceará", "short": "CEA", "logo": "https://static3.smr.vc/346f32b998c846d012836f-104749.webp" },
+        { "id": "crb", "name": "CRB", "short": "CRB", "logo": "https://static3.smr.vc/5dd347235cfd3fc6132088-301102.webp" },
+        { "id": "criciuma", "name": "Criciúma", "short": "CRI", "logo": "https://static3.smr.vc/63e96448da4c85b15e3b9e-320.webp" },
+        { "id": "cuiaba", "name": "Cuiabá", "short": "CUI", "logo": "https://static3.smr.vc/b86be2ff31181ef0de8b48-318915.webp" },
+        { "id": "fortaleza", "name": "Fortaleza", "short": "FOR", "logo": "https://static3.smr.vc/dd457018a22f39562bb1e8-104750.webp" },
+        { "id": "goias", "name": "Goiás", "short": "GOI", "logo": "https://static3.smr.vc/cb87d38e66fa66e75936c1-102555.webp" },
+        { "id": "juventude", "name": "Juventude", "short": "JUV", "logo": "https://static3.smr.vc/37df029a2adae33d460f95-327.webp" },
+        { "id": "londrina", "name": "Londrina", "short": "LON", "logo": "https://static3.smr.vc/1fceccb4be09e027cdb41f-900678.webp" },
+        { "id": "nautico", "name": "Náutico", "short": "NAU", "logo": "https://static3.smr.vc/013bf62fd37c75d8e8077b-328.webp" },
+        { "id": "novorizontino", "name": "Novorizontino", "short": "NOV", "logo": "https://static3.smr.vc/c1f1a47b8537c0542417cf-19144990.webp"},
+        { "id": "operario_pr", "name": "Operário-PR", "short": "OPE", "logo": "https://static3.smr.vc/c428addeff3e5fbb2231ae-311086.webp"},
+        { "id": "ponte_preta", "name": "Ponte Preta", "short": "PON", "logo": "https://static3.smr.vc/37f4601e631c5da1324063-332.webp" },
+        { "id": "sao_bernardo", "name": "São Bernardo", "short": "SBE", "logo": "https://static3.smr.vc/e68ab0478763cf01e47bdc-2106553.webp"},
+        { "id": "sport", "name": "Sport", "short": "SPT", "logo": "https://static3.smr.vc/aae166a046d8446271932e-338.webp"},
+        { "id": "vila_nova", "name": "Vila Nova", "short": "VIL", "logo": "https://static3.smr.vc/810a7c560280aba27e1428-107236.webp" }
+      ]
+    }
+  ]
+}
