@@ -1,0 +1,15 @@
+{
+  "games": [
+    { "id": "gates_of_olympus", "name": "Gates of Olympus", "image": "https://static3.smr.vc/b66d0c9ac15d36d4794a3f-gates-of-olympus.webp" },
+    { "id": "sweet_bonanza", "name": "Sweet Bonanza", "image": "https://static3.smr.vc/f69fb6c6dee09262e48956-sweet-bonanza.webp" },
+    { "id": "spaceman", "name": "Spaceman", "image": "https://static3.smr.vc/05f41f980516fcb8865401-spaceman.webp" },
+    { "id": "mines", "name": "Mines", "image": "https://static3.smr.vc/ee86f38bc5d9663a869f2c-mines.webp" },
+    { "id": "roleta_ao_vivo", "name": "Roleta ao Vivo", "image": "https://static3.smr.vc/4a43b5ff87357b8e3fca0e-roleta-ao-vivo.webp" },
+    { "id": "fortune_ox", "name": "Fortune Ox", "image": "https://static3.smr.vc/099c0953f17b98b88f02dc-fortune-ox.webp" },
+    { "id": "fortune_tiger", "name": "Fortune Tiger", "image": "https://static3.smr.vc/6f8efa8e8d48b8b07c48f2-fortune-tiger.webp" },
+    { "id": "dragon_tiger", "name": "Dragon Tiger", "image": "https://static3.smr.vc/fcffdda5ab69f7461ab77e-dragon-tiger.webp" },
+    { "id": "blackjack", "name": "Blackjack", "image": "https://static3.smr.vc/fae56fac1b323f1cab13ea-blackjack.webp" },
+    { "id": "big_bass_bonanza", "name": "Big Bass Bonanza", "image": "https://static3.smr.vc/8ebbda02d6a014d5290967-big-bass-bonanza.webp" },
+    { "id": "aviator", "name": "Aviator", "image": "https://static3.smr.vc/02f011e61b7cc231787694-aviator.webp" }
+  ]
+}
