@@ -64,6 +64,7 @@
       "country": "Europa",
       "flag": "🇪🇺",
       "logo": "https://static3.smr.vc/993b2d372d283457dde66a-champions-league.webp",
+      "logoBg": "#ffffff",
       "clubs": [
         { "id": "real_madrid", "name": "Real Madrid", "short": "RMA", "logo": "https://static3.smr.vc/fcb1ec93c49946340b91cc-1736.webp" },
         { "id": "barcelona", "name": "Barcelona", "short": "BAR", "logo": "https://static3.smr.vc/30f406f91de621cbc89205-1708.webp" },
